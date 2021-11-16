@@ -1,4 +1,4 @@
-Now you have ot pull the latest ConsenSys Doctools Docker image.
+Pull the latest ConsenSys Doctools Docker image from the Github Container Repository.
 
 ## Task
 

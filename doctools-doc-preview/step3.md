@@ -1,4 +1,6 @@
-To build the doc with the Doctools Docker image, you have to go in the doc site directory and execute the Docker Compose command.
+Build the doc with the Doctools Docker image.
+
+Go in the doc site directory and execute the Docker Compose command.
 
 ## Task
 
