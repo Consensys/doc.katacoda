@@ -6,6 +6,12 @@ Go in the doc site directory and execute the Docker Compose command.
 
 First, go in the `template-docsite` directory: `cd template-docsite`{{execute}}.
 
+Copy the `.env.template` file to a new `.env` file that will never be commited:
+
+`cp .env.template .env`{{execute}}
+
+We don't have to modify it for this simple demo.
+
 Then run `docker-compose up -d`{{execute}}
 
 Bravo, the preview service is running as a Docker container!
