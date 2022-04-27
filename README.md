@@ -1,5 +1,5 @@
 # doc.katacoda
-Katacoda scenarios for Consensys documentation tutorials, examples and demos.and
+Katacoda scenarios for ConsenSys documentation tutorials, examples and demos.and
 
 Tryout the scenarios on [ConsenSys Katacoda profile](https://www.katacoda.com/consensys).
 

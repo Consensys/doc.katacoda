@@ -1,0 +1,7 @@
+#user-course-progress .action.start,
+.x .panel .action.start
+{
+  background: none;
+  border-bottom: 0;
+  color: #2C56DD;
+}
