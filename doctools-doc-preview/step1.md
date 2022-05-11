@@ -1,6 +1,6 @@
 First, you need a documentation repository.
 
-Here we show you how to clone our template repository.
+In this exercise, you will clone our template repository.
 
 For your own use case, you will have to clone the repository of the documentation you want to contribute to.
 
