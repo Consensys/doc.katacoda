@@ -2,7 +2,6 @@
   "title": "Base linux dev environment",
   "description": "Use a dase Linux environment to demo tools",
   "difficulty": "Beginner",
-  "time": "1min",
   "details": {
     "steps": [
       {
@@ -18,7 +17,8 @@
     }
   },
   "environment": {
-    "uilayout": "vscode-terminal-split"
+    "uilayout": "terminal",
+    "showide": true
   },
   "backend": {
     "imageid": "ubuntu:2004"
