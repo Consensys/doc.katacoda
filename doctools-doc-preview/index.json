@@ -1,24 +1,24 @@
 {
   "title": "Previewing documentation",
-  "description": "Preview documentation locally before pushing changes in a PR",
+  "description": "Preview your documentation using ConsenSys Doctools",
   "difficulty": "Beginner",
   "time": "5min",
   "details": {
     "steps": [
       {
-        "title": "Step 1 - Fork the doc repos.",
+        "title": "Clone the documentation repository.",
         "text": "step1.md"
       },
       {
-        "title": "Step 2 - pull the Docker image.",
+        "title": "Pull the Doctools Docker image.",
         "text": "step2.md"
       },
       {
-        "title": "Step 3 - Preview the doc",
+        "title": "Preview the documentation",
         "text": "step3.md"
       },
       {
-        "title": "Step 4 - Stop the preview",
+        "title": "Stop the preview",
         "text": "step4.md"
       }
     ],
