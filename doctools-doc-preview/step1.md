@@ -1,12 +1,12 @@
-The first step is to fork a documentation repository.
+First, you need a documentation repository.
 
-Here you are going to clone the template repository.
+Here we show you how to clone our template repository.
 
-For your own use case, you will have to clone your own doc repository.
+For your own use case, you will have to clone the repository of the documentation you want to contribute to.
 
 ## Task
 
-Clone our template repository that contains the template documentation with the following command:
+Clone `ConsenSys/doctools.template-site` repository with the following command:
 
 `git clone https://github.com/ConsenSys/doctools.template-site.git template-docsite`{{execute}}
 
