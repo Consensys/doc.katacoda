@@ -1,11 +1,11 @@
 {
   "title": "Base linux dev environment",
-  "description": "Use a dase Linux environment to demo tools",
+  "description": "Use a base Linux environment to demo tools",
   "difficulty": "Beginner",
   "details": {
     "steps": [
       {
-        "title": "Run the command.",
+        "title": "Tested projects",
         "text": "step1.md"
       }
     ],
